@@ -8,7 +8,7 @@ Undergraduate student in **Cyberdefense at FADENA / UNDEF**, focused on defensiv
 - **Defensive & SOC:** Log analysis (Windows Event Logs / Sysmon / Linux auth), SIEM correlation and alerting (Wazuh / Splunk).
 - **Network & Traffic:** Packet inspection and protocol analysis (Wireshark, Zeek).
 - **Practical Training:** *Junior Cybersecurity Analyst* path on Hack The Box Academy.
-- **Write-ups & Notes:** Technical documentation and lab walkthroughs published at [your-blog.com](https://your-blog.com).
+- **Write-ups & Notes:** Technical documentation and lab walkthroughs published at https://blogsamuelrobledo.netlify.app.
 
 ---
 
