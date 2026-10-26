@@ -18,5 +18,5 @@ Undergraduate student in **Cyberdefense at FADENA / UNDEF**, focused on defensiv
 ---
 
 ### Connect
-- **Blog:** [[your-blog.com](https://your-blog.com)](https://blogsamuelrobledo.netlify.app/)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Blog:** https://blogsamuelrobledo.netlify.app
+- **LinkedIn:** https://www.linkedin.com/in/samuel-robledo-cibsec
